@@ -1,7 +1,7 @@
 
 // holaMundo.js
 function holaMundo() {
-    return "Hola, Mundo!";
+    return "Hola, Munda!";
     }
 
     module.exports = holaMundo;
